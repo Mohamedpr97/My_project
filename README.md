@@ -1,2 +1,2 @@
 # My_project
-For Elzero web school git course.
+The Design created using HTML & CSS with developer\ Osama ElZero.
